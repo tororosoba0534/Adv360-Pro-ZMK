@@ -8,7 +8,7 @@
     "fn",
     "mod",
     "NUM",
-    "MOUSE_SLOW",
+    "MOUSE",
     "MOUSE_MIDDLE",
     "MOUSE_FAST"
   ],
@@ -44,11 +44,11 @@
        "&trans", "&kp EXCLAMATION", "&kp AT_SIGN", "&kp HASH", "&kp DOLLAR", "&kp PERCENT",                               "&trans",                     "&trans",                     "&kp CARET", "&kp AMPERSAND", "&kp ASTERISK",  "&kp LPAR",  "&kp RPAR", "&trans",
        "&trans",          "&trans",      "&trans",   "&trans",     "&trans",                          "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                  "&kp EQUAL",     "&kp PLUS", "&kp MINUS", "&kp UNDER", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                 "&trans",                 "&trans",                 "&trans",               "&trans",                  "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                 "&trans",                 "&trans",                 "&trans",               "&trans",                  "&trans",  "&none", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&kp LC(PRINTSCREEN)",        "&trans",     "&kp LC(LEFT_ARROW)",     "&kp LC(DOWN_ARROW)",     "&kp LC(UP_ARROW)",     "&kp LC(RIGHT_ARROW)",  "&to 6", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                                         "&kp LG(LC(LEFT_ARROW))", "&kp LG(LC(DOWN_ARROW))", "&kp LG(LC(UP_ARROW))", "&kp LG(LC(RIGHT_ARROW))",  "&to 7", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                      "&to 0",       "&kp LC(PG_DN)", "&kp LC(PG_UP)",                                           "&trans",               "&trans",                  "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                  "&none",                  "&none",                      "&none",                    "&none",                       "&none",  "&none",  "&none",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                  "&none", "&kp LC(LS(LEFT_ARROW))",     "&kp LC(LS(DOWN_ARROW))",     "&kp LC(LS(UP_ARROW))",     "&kp LC(LS(RIGHT_ARROW))",  "&none",  "&none",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                      "&none", "&kp LC(PRINTSCREEN)",         "&none",     "&kp LC(LEFT_ARROW)",         "&kp LC(DOWN_ARROW)",         "&kp LC(UP_ARROW)",         "&kp LC(RIGHT_ARROW)",  "&none",  "&none",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                      "&none",                                         "&kp LG(LC(LEFT_ARROW))",     "&kp LG(LC(DOWN_ARROW))",     "&kp LG(LC(UP_ARROW))",     "&kp LG(LC(RIGHT_ARROW))",  "&none",  "&none",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                      "&to 0",       "&kp LC(PG_DN)", "&kp LC(PG_UP)",                           "&kp LG(LC(LS(DOWN_ARROW)))", "&kp LG(LC(LS(UP_ARROW)))", "&kp LG(LC(LS(RIGHT_ARROW)))",  "&none",  "&none"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                 "&trans",                     "&trans",                     "&trans",                   "&trans",                      "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                                                 "&trans",                     "&trans",                     "&trans",                   "&trans",                      "&trans",  "&to 5", "&trans",
