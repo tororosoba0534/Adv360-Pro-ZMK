@@ -89,11 +89,11 @@
 
         layer_MOUSE {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                       &none                   &none                       &none                     &none                        &none           &none   &none
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                       &none  &kp LC(LS(LEFT_ARROW))      &kp LC(LS(DOWN_ARROW))      &kp LC(LS(UP_ARROW))      &kp LC(LS(RIGHT_ARROW))           &none   &none
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                   &none  &kp LC(PRINTSCREEN)          &none      &kp LC(LEFT_ARROW)          &kp LC(DOWN_ARROW)          &kp LC(UP_ARROW)          &kp LC(RIGHT_ARROW)  &kp LEFT_SHIFT   &none
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                   &none                                      &kp LG(LC(LEFT_ARROW))      &kp LG(LC(DOWN_ARROW))      &kp LG(LC(UP_ARROW))      &kp LG(LC(RIGHT_ARROW))           &none   &none
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                   &to 0        &kp LC(PG_DN)  &kp LC(PG_UP)                          &kp LG(LC(LS(DOWN_ARROW)))  &kp LG(LC(LS(UP_ARROW)))  &kp LG(LC(LS(RIGHT_ARROW)))           &none   &none
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                       &none                   &none                       &none                     &none                        &none   &none   &none
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                       &none  &kp LC(LS(LEFT_ARROW))      &kp LC(LS(DOWN_ARROW))      &kp LC(LS(UP_ARROW))      &kp LC(LS(RIGHT_ARROW))   &none   &none
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                   &none  &kp LC(PRINTSCREEN)          &none      &kp LC(LEFT_ARROW)          &kp LC(DOWN_ARROW)          &kp LC(UP_ARROW)          &kp LC(RIGHT_ARROW)   &none   &none
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                   &none                                      &kp LG(LC(LEFT_ARROW))      &kp LG(LC(DOWN_ARROW))      &kp LG(LC(UP_ARROW))      &kp LG(LC(RIGHT_ARROW))   &none   &none
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                   &to 0        &kp LC(PG_DN)  &kp LC(PG_UP)                          &kp LG(LC(LS(DOWN_ARROW)))  &kp LG(LC(LS(UP_ARROW)))  &kp LG(LC(LS(RIGHT_ARROW)))   &none   &none
             >;
         };
 
